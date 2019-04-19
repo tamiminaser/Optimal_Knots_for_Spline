@@ -15,3 +15,4 @@ The method uses a novel algorithm which calculates the cost of removing a knot f
 
 ## Running the Code
 Run the codes in MATLAB.
+
